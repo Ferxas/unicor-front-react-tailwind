@@ -10,7 +10,6 @@ const navigation = [
   { name: <GiNotebook />, href: '#', current: true },
   { name: <GiHouseKeys />, href: '#', current: false },
   { name:<FaLifeRing /> , href: '#', current: false },
-  { name: <FaPen />, href: '#', current: false },
   { name: <LuDoorOpen />, href: '#', current: false },
 ]
 
