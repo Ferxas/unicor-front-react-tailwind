@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1c1b24;
+    color: #fff;
+}
+
+/* footer {
+    display: 'flex';
+    flex-direction: "column";
+    min-height: "100vh";
+} */

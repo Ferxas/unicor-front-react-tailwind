@@ -1,0 +1,35 @@
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+nav .container {
+    width: 90%;
+    margin: 0 auto;
+    min-height: 80px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list {
+    flex-basis: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.list-item:hover {
+    opacity: 0.8;
+
+}
+
+.header {
+    
+}
