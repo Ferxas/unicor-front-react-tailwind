@@ -1,6 +1,6 @@
 # Unicor front design using React + Vite
 
-Template based for University of Cordoba using React
+Template interface for University of Cordoba using React
 
 ### Screenshot used:
 [Unicor](/screenshots/unicor.jpg "unicor screenshot")
