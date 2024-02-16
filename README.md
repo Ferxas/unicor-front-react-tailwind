@@ -1,10 +1,7 @@
 # Unicor front design using React + Vite
 
-<<<<<<< HEAD
-Template design for University of Cordoba 🧑‍🎓 
+Template design for University of Cordoba 
 =======
-Template interface for University of Cordoba using React
->>>>>>> 3f6fbc12358880becc7e3dc62922c51a593c11ef
 
 ### Screenshot used 
 
