@@ -27,9 +27,15 @@ function App() {
             </div>
           </div>
         </div>
-        <div className="w-full sm:m-40 sm:mb-20 rounded bg-white text-black shadow-lg shadow-gray-950 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
-          <div className="bg-gray-900 border-l-4 border-r-4 p-5 sm:p-20 overflow-hidden ">
-            <h1 className="text-3xl text-slate-300 font-bold">Gestión</h1>
+        <div className="relative w-full sm:m-40 sm:mb-20 rounded text-black shadow-lg shadow-gray-950 mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+          <div className="bg-transparent p-5 sm:p-20 overflow-hidden ">
+            <h1 className="text-3xl text-slate-300 font-bold relative">Gestión</h1>
+            <button
+              type="button"
+              className="absolute bottom-3 right-0 mr-3 mt-3 text-slate-900 bg-slate-300 hover:bg-slate-400 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-slate-300 dark:hover:bg-slate-400 dark:focus:ring-slate-100 shadow-lg shadow-slate-500/50"
+            >
+              Editar <FaPencil className="ml-3 text-yellow-300" />
+            </button>
             <PiStudentFill className="mt-5 sm:mt-10 text-4xl" />
             <p className="mt-5 sm:mt-10 text-slate-100 ">Acádemico estudiante</p>
           </div>

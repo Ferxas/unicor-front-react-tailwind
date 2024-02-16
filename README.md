@@ -1,13 +1,19 @@
 # Unicor front design using React + Vite
 
-Template based for University of Cordoba using React
+Template design for University of Cordoba 🧑‍🎓 
 
-### Screenshot used
+### Screenshot used 
 
-[Unicor](/screenshots/unicor.jpg "unicor screenshot")
+[Unicor](./screenshots/unicor.jpg "unicor screenshot")
 
-PROGRESS:
+<img src="./screenshots/unicor.jpg" alt="unicor screenshot"/>
+
+</br>
+</br>
+
+
 [Unicor front design using React + Vite](/screenshots/screenshot.jpg)
+<img src="./screenshots/screenshot.jpg" alt="">
 
 Plugins used:
 
@@ -16,7 +22,7 @@ Plugins used:
 
 ## Get and run the project
 
-- `git clone https://github.com/Ferxas/unicor-front-react-tailwind`
-- `cd unicor-front-react-tailwind`
-- `npm install`
-- `npm run dev`
+- [x] `git clone https://github.com/Ferxas/unicor-front-react-tailwind`
+- [x]  `cd unicor-front-react-tailwind`
+- [x] `npm install`
+- [x] `npm run dev`
